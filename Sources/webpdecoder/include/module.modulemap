@@ -1,0 +1,4 @@
+module WebPDecoder {
+    header "src/webp/decode.h"
+    header "src/webp/types.h"
+}
